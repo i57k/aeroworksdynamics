@@ -1,0 +1,8 @@
+# Robots.txt for Aeroworks Dynamics
+# https://aeroworksdynamics.se
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://aeroworksdynamics.se/sitemap.xml
