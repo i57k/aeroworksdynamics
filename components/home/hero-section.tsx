@@ -69,7 +69,7 @@ export function HeroSection() {
             <div className="relative h-[300px] w-[350px] sm:h-[400px] sm:w-[500px] lg:h-[450px] lg:w-[600px]">
               {/* Glow effect behind image */}
               <div className="absolute inset-0 rounded-lg bg-gradient-to-br from-primary/20 to-primary/5 blur-2xl" />
-              
+
               {/* Main image */}
               <Image
                 src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Matrocket_Visual_2.png-vs7HyXRCslg8nEtxrn5jHa5wEAlz9W.jpeg"

@@ -31,7 +31,7 @@ export default function HardwarePage() {
           <div className="absolute left-1/2 top-1/2 h-[600px] w-[600px] -translate-x-1/2 -translate-y-1/2 rounded-full bg-secondary/50 blur-[150px]" />
         </div>
 
-        <div className="relative mx-auto max-w-7xl px-6 py-24 lg:px-8">
+        <div className="relative mx-auto max-w-7xl px-6 py-14 lg:px-8 lg:py-20">
           <div className="mx-auto max-w-3xl text-center">
             <div className="mb-8 inline-flex items-center gap-2 rounded-full border border-border/60 bg-secondary/50 px-4 py-1.5 text-sm text-muted-foreground">
               <span className="h-1.5 w-1.5 animate-pulse rounded-full bg-primary" />
@@ -43,7 +43,7 @@ export default function HardwarePage() {
             </h1>
 
             <p className="mt-6 text-xl leading-relaxed text-muted-foreground">
-              Our hardware division is actively developing physical systems
+              Our hardware division is <span className="text-primary">actively</span> developing physical systems
               designed to work seamlessly with MatRocket. Contact us to learn more about our hardware roadmap or to discuss
               potential collaboration opportunities.
             </p>

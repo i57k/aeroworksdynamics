@@ -7,7 +7,7 @@ export function AboutSection() {
             About Aeroworks Dynamics
           </span>
           <h2 id="about-heading" className="mt-4 font-[family-name:var(--font-space-grotesk)] text-3xl font-bold tracking-tight text-foreground sm:text-4xl lg:text-5xl">
-            <span className="text-balance">Pioneering Swedish Aerospace Technology</span>
+            <span className="text-balance">Aerospace Technology</span>
           </h2>
           <p className="mt-6 text-lg leading-relaxed text-muted-foreground">
             Aeroworks Dynamics AB is an early-stage aerospace technology company

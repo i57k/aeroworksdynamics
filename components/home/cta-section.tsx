@@ -43,10 +43,10 @@ export function CTASection() {
           <p className="mt-8 text-sm text-muted-foreground">
             Contact us at{' '}
             <a
-              href="mailto:adnan@aeroworksdynamics.se"
+              href="mailto:contact@aeroworksdynamics.se"
               className="text-primary hover:underline"
             >
-              adnan@aeroworksdynamics.se
+              contact@aeroworksdynamics.se
             </a>
           </p>
         </div>

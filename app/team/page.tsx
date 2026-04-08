@@ -45,7 +45,7 @@ export default function TeamPage() {
   return (
     <div className="pt-16">
       {/* Hero Section */}
-      <section className="relative overflow-hidden bg-background py-24 lg:py-32">
+      <section className="relative overflow-hidden bg-background py-14 lg:py-20">
         {/* Background elements */}
         <div className="absolute inset-0">
           <div

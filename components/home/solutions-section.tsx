@@ -1,5 +1,6 @@
 import Link from 'next/link'
-import { ArrowRight, Code2, Cpu } from 'lucide-react'
+import Image from 'next/image'
+import { ArrowRight, Cpu } from 'lucide-react'
 
 export function SolutionsSection() {
   return (
@@ -27,8 +28,14 @@ export function SolutionsSection() {
             <div className="absolute -right-20 -top-20 h-40 w-40 rounded-full bg-primary/5 transition-transform group-hover:scale-150" />
 
             <div className="relative">
-              <div className="flex h-14 w-14 items-center justify-center rounded-lg bg-primary/10">
-                <Code2 className="h-7 w-7 text-primary" />
+              <div className="relative flex h-14 w-14 items-center justify-center rounded-lg bg-background overflow-hidden">
+                <Image
+                  src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Matrocket_Visual_4.png-opDkImixzx83d5mdQZlBy3t2gavLi7.jpeg"
+                  alt="MatRocket Mascot"
+                  fill
+                  sizes="56px"
+                  className="object-cover"
+                />
               </div>
 
               <h3 className="mt-6 font-[family-name:var(--font-space-grotesk)] text-2xl font-semibold text-foreground">

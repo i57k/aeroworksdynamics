@@ -62,6 +62,17 @@ export function Footer() {
             <ul className="mt-4 space-y-3">
               <li>
                 <a
+                  href="mailto:contact@aeroworksdynamics.se"
+                  className="text-sm text-muted-foreground transition-colors hover:text-primary"
+                >
+                  contact@aeroworksdynamics.se
+                </a>
+              </li>
+            </ul>
+            <p className="mt-4 text-xs font-semibold uppercase tracking-wider text-muted-foreground/60">Direct Contact</p>
+            <ul className="mt-2 space-y-3">
+              <li>
+                <a
                   href="mailto:adnan@aeroworksdynamics.se"
                   className="text-sm text-muted-foreground transition-colors hover:text-primary"
                 >

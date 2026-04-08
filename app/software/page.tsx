@@ -31,7 +31,7 @@ export default function SoftwarePage() {
     <article className="pt-16">
       <SoftwareProductJsonLd />
       {/* Hero Section */}
-      <section className="relative overflow-hidden bg-background py-24 lg:py-32">
+      <section className="relative overflow-hidden bg-background py-14 lg:py-20">
         {/* Background elements */}
         <div className="absolute inset-0">
           <div
@@ -70,14 +70,6 @@ export default function SoftwarePage() {
                   Request a Demo
                   <ArrowRight className="ml-2 h-4 w-4" />
                 </Link>
-              </Button>
-              <Button
-                asChild
-                size="lg"
-                variant="outline"
-                className="border-border/60 text-foreground hover:bg-secondary"
-              >
-                <Link href="/contact">Contact Sales</Link>
               </Button>
             </div>
           </div>
