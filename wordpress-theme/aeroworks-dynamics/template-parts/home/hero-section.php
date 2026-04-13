@@ -22,7 +22,7 @@
 
             <p class="hero-subtitle">
                 Aeroworks Dynamics AB develops advanced aerospace hardware and
-                software solutions. Our flagship product, MatRocket, takes your concepts from
+                software solutions. Our product, MatRocket, takes your concepts from
                 simulation to air in minimum time.
             </p>
 
