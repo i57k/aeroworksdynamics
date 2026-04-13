@@ -6,7 +6,7 @@
             <figure class="figure-centered order-lg-1">
                 <div class="screenshot-frame bg-background">
                     <img
-                        src="<?php echo esc_url(get_template_directory_uri()); ?>/assets/images/matrocket-sw2.jpeg"
+                        src="<?php echo esc_url(get_template_directory_uri()); ?>/assets/images/matrocket_software2.png"
                         alt="MatRocket trajectory visualization showing rocket flight path on satellite terrain map with geoplot coordinates"
                     >
                     <figcaption class="sr-only">

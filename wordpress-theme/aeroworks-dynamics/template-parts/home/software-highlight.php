@@ -31,7 +31,7 @@
             <figure class="figure-centered">
                 <div class="screenshot-frame bg-card">
                     <img
-                        src="<?php echo esc_url(get_template_directory_uri()); ?>/assets/images/matrocket-sw1.jpeg"
+                        src="<?php echo esc_url(get_template_directory_uri()); ?>/assets/images/matrocket_software1.png"
                         alt="MatRocket software interface showing 3D rocket model in the geometry tab with component hierarchy and parameter editing"
                     >
                     <figcaption class="sr-only">

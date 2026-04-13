@@ -39,7 +39,7 @@
             <figure class="figure-centered">
                 <div class="screenshot-frame bg-background">
                     <img
-                        src="<?php echo esc_url(get_template_directory_uri()); ?>/assets/images/matrocket-sw1.jpeg"
+                        src="<?php echo esc_url(get_template_directory_uri()); ?>/assets/images/matrocket_software1.png"
                         alt="MatRocket geometry interface showing 3D rocket model visualization with component tree hierarchy and parameter editing panel"
                         loading="eager"
                     >

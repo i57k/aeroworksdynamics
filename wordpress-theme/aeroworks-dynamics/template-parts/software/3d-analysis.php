@@ -29,7 +29,7 @@
             <figure class="figure-centered">
                 <div class="screenshot-frame bg-background">
                     <img
-                        src="<?php echo esc_url(get_template_directory_uri()); ?>/assets/images/matrocket-sw3.jpeg"
+                        src="<?php echo esc_url(get_template_directory_uri()); ?>/assets/images/matrocket_software3.png"
                         alt="MatRocket 3D trajectory visualization showing rocket flight path arc over Scandinavian landscape with coastline"
                     >
                     <figcaption class="sr-only">

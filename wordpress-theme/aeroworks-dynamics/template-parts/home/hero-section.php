@@ -42,7 +42,7 @@
             <div class="hero-image-wrapper">
                 <div class="hero-image-glow"></div>
                 <img
-                    src="<?php echo esc_url(get_template_directory_uri()); ?>/assets/images/matrocket-hero.jpeg"
+                    src="<?php echo esc_url(get_template_directory_uri()); ?>/assets/images/matrocket_visual1.png"
                     alt="MatRocket aerospace simulation platform - from concept design through hardware testing to real rocket launches"
                     loading="eager"
                 >

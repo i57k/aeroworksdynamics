@@ -13,7 +13,7 @@
     <nav class="navbar-inner">
         <!-- Logo -->
         <a href="<?php echo esc_url(home_url('/')); ?>" class="navbar-logo" aria-label="Aeroworks Dynamics - Home">
-            <img src="<?php echo esc_url(get_template_directory_uri()); ?>/assets/images/awd-logo.jpeg" alt="Aeroworks Dynamics logo" width="36" height="36">
+            <img src="<?php echo esc_url(get_template_directory_uri()); ?>/assets/images/awd_logo.jpeg" alt="Aeroworks Dynamics logo" width="36" height="36">
             <span class="font-display">Aeroworks Dynamics</span>
         </a>
 

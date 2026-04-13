@@ -123,6 +123,10 @@ get_header(); ?>
                         <?php echo aeroworks_icon('arrow-right'); ?>
                     </a>
                 </div>
+
+                <div class="mt-10" style="display:flex; justify-content:center; margin-top: 4rem;">
+                    <img src="<?php echo esc_url(get_template_directory_uri()); ?>/assets/images/matrocket_mascot2.png" alt="Aeroworks Dynamics Mascot" style="max-width: 250px; height: auto;">
+                </div>
             </div>
         </div>
     </section>

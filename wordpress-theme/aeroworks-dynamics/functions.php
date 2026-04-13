@@ -52,9 +52,9 @@ function aeroworks_jsonld_organization() {
         'name'         => 'Aeroworks Dynamics AB',
         'alternateName'=> 'Aeroworks Dynamics',
         'url'          => 'https://aeroworksdynamics.se',
-        'logo'         => get_template_directory_uri() . '/assets/images/awd-logo.jpeg',
+        'logo'         => get_template_directory_uri() . '/assets/images/awd_logo.jpeg',
         'description'  => 'Swedish aerospace technology company specializing in simulation software and hardware solutions for aerospace development.',
-        'foundingDate' => '2024',
+        'foundingDate' => '-',
         'founders'     => array(
             array('@type' => 'Person', 'name' => 'Adnan Mohammed', 'jobTitle' => 'Chief Executive Officer'),
             array('@type' => 'Person', 'name' => 'Vilgot Lötberg', 'jobTitle' => 'Chief Technology Officer'),

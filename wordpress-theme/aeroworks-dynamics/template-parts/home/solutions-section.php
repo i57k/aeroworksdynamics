@@ -21,7 +21,7 @@
                 <div class="solution-card-content">
                     <div class="solution-card-icon with-image">
                         <img
-                            src="<?php echo esc_url(get_template_directory_uri()); ?>/assets/images/matrocket-mascot.jpeg"
+                            src="<?php echo esc_url(get_template_directory_uri()); ?>/assets/images/matrocket_mascot_default.png"
                             alt="MatRocket Mascot"
                         >
                     </div>
